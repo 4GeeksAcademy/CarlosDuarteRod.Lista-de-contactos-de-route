@@ -1,0 +1,14 @@
+/* Estilo para la tarjeta */
+.card {
+    display: flex;
+  
+  }
+  
+  /* Estilo para la imagen del usuario */
+  .card img {
+    width: 100px; /* Ajusta el ancho de la imagen según tus necesidades */
+    height: 100px; /* Ajusta la altura de la imagen según tus necesidades */
+  }
+  
+  
+  
